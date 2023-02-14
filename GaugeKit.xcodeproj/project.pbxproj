@@ -191,7 +191,7 @@
 					};
 					1C9404DA1B31CF85001BF122 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 5UH69GW6GE;
+						DevelopmentTeam = AZV8PKS8KB;
 						LastSwiftMigration = 1130;
 					};
 				};
@@ -424,6 +424,7 @@
 		1C9404EA1B31CF85001BF122 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = AZV8PKS8KB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -443,6 +444,7 @@
 		1C9404EB1B31CF85001BF122 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = AZV8PKS8KB;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
